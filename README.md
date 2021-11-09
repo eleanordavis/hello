@@ -1,2 +1,2 @@
-# hello
-description
+# word_guessing_game
+This python program creates a word guessing game to be played between two players. The game begins with the first player choosing a secret word. The length of the word is revealed to the second palyer, who makes repeated guesses about what letters are in the word. If a letter contained in the word is correctly guessed, then that letter is revealed everywhere it appears in the word. Once all of the letters have been guesses, the program will confirm the second player's success and tell them how many guesses it took.
